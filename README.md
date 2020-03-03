@@ -4,9 +4,11 @@
 
 This project aims to detect lane lines on the road. Below, you can find the folder struction explanation and a guideline to run the codes.
 
+Please see [Writeup](https://github.com/haciogluf/Udacity_CarND-LaneLines-P1/blob/master/Writeup.md) for the project presentation
+
 ### **Content of the Project Folder**
 
-**/Example:** Includes images for the report preparation (see: [Writeup.md](https://github.com/haciogluf/Udacity_CarND-LaneLines-P1/blob/master/Writeup.md))
+**/examples:** Includes images for the report preparation (see: [Writeup.md](https://github.com/haciogluf/Udacity_CarND-LaneLines-P1/blob/master/Writeup.md))
 
 **/test_images:** Includes images for testing
 
