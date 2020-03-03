@@ -18,6 +18,8 @@ This project aims to detect lane lines on the road. Below, you can find the fold
 
 **Project1_Delivery.ipynb:** This file includes the pipeline for lane line detection. It also includes codes for testing images/videos
 
-### **How to Run**
+**Project1_Delivery_Report.html:** HTML report of [*Project1_Delivery.ipynb*] (https://github.com/haciogluf/Udacity_CarND-LaneLines-P1/blob/master/Project1_Delivery.ipynb).
 
-* 
+**Project1_Report_Detailed.ipynb:** This file is for reporting details of draw_lines() function. The codes are not represented as a pipeline. They are run in separated cells to show plots systematically
+
+**Project1_Report_Detailed.html:** HTML report of *Project1_Report_Detailed.ipynb* (https://github.com/haciogluf/Udacity_CarND-LaneLines-P1/blob/master/Project1_Report_Detailed.ipynb).
