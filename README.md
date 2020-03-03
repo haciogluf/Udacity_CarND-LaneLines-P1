@@ -6,6 +6,8 @@ This project aims to detect lane lines on the road. Below, you can find the fold
 
 Please see [Writeup](https://github.com/haciogluf/Udacity_CarND-LaneLines-P1/blob/master/Writeup.md) for the project presentation
 
+---
+
 ### **Content of the Project Folder**
 
 **/examples:** Includes images for the report preparation (see: [Writeup.md](https://github.com/haciogluf/Udacity_CarND-LaneLines-P1/blob/master/Writeup.md))
