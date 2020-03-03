@@ -2,7 +2,7 @@
 
 ## **Project Summary**
 
-This project aims to detect lane lines on the road. Below, you can find the folder struction explanation and a guideline to run the codes.
+This project aims to detect lane lines on the road. Below, you can find the folder structure and file explanations.
 
 Please see [Writeup](https://github.com/haciogluf/Udacity_CarND-LaneLines-P1/blob/master/Writeup.md) for the project presentation
 
